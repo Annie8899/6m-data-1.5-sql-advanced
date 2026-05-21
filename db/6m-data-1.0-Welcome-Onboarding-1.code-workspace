@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../6m-data-1.0-Welcome-Onboarding-1"
+		},
+		{
+			"name": "6m-data-1.1-intro-data-science",
+			"path": "../../6m-data-1.1-intro-data-science"
+		},
+		{
+			"name": "6m-data-1.2-intro-database",
+			"path": "../../6m-data-1.2-intro-database"
+		},
+		{
+			"name": "6m-data-1.3-sql-basic-ddl",
+			"path": "../../6m-data-1.3-sql-basic-ddl"
+		},
+		{
+			"name": "6m-data-1.4-sql-basic-dml",
+			"path": "../../6m-data-1.4-sql-basic-dml"
+		},
+		{
+			"name": "6m-data-1.5-sql-advanced",
+			"path": ".."
+		},
+		{
+			"name": "6m-data-1.6-intro-numpy",
+			"path": "../../6m-data-1.6-intro-numpy"
+		}
+	],
+	"settings": {}
+}
